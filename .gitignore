@@ -1,0 +1,6 @@
+/.python-version
+/.venv
+/.vscode
+/log.txt
+/server_data
+/uv.lock
